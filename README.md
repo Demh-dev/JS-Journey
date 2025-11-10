@@ -18,4 +18,4 @@ This site tracks my progress as I learn JavaScript.
 - To-do list (vanilla JS) 🔴
 - Quiz app 🔴
 - Countdown timer 🔴
-- - Random quote generator 🔴
+- Random quote generator 🔴
