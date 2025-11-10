@@ -1,0 +1,2 @@
+# JS-Journey
+Learning JS
