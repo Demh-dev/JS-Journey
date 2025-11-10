@@ -11,7 +11,7 @@ This site tracks my progress as I learn JavaScript.
 - Arrays and objects (manipulating data) 🟢
 - Functions that return values 🟡
 - ES6 syntax: arrow functions, destructuring, spread/rest, modules 🔴
-- DOM manipulation (optional if staying in React, but helpful) 🔴
+- DOM manipulation 🔴
 - Async basics (promises, async/await, fetch) 🔴
 
 **Mini projects to do:**
