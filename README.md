@@ -12,8 +12,8 @@ This repository tracks my progress as I learn JavaScript from the ground up — 
 |:------|:-------|
 | Variables, functions, loops, conditionals | 🟢 Done |
 | Arrays and objects (manipulating data) | 🟢 Done |
-| Functions that return values | 🟡 In progress |
-| ES6 syntax (arrow functions, destructuring, spread/rest, modules) | 🔴 To do |
+| Functions that return values | 🟢 Done |
+| ES6 syntax (arrow functions, destructuring, spread/rest, modules) | 🟡 In progress |
 | DOM manipulation | 🔴 To do |
 | Async basics (promises, async/await, fetch) | 🔴 To do |
 
